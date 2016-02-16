@@ -22,6 +22,10 @@ Conditioned Choropleth Maps
 Daniel B. Carr, Anthony R.Olsen, Using Linked Micromap Plots to Characterize Omernik Ecoregions, Data Mining 
 and Knowledge Discovery, 4, 43–67 (2000)
 
+Carr, Daniel B., and Linda Williams Pickle. Visualizing data patterns with micromaps. CRC Press, 2010
+
+http://mason.gmu.edu/~dcarr/Micromaps/
+
 Gordon Blunt, Using Linked Micromap Plots to Produce Graphical Summaries of Large Financial Datasets
 
 http://gis.cancer.gov/tools/micromaps/
